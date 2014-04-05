@@ -1,4 +1,4 @@
-Octane-Browsr-v0.1.0-Alpha
+Octane-Browser-v0.1.0-Alpha
 ==========================
 
 Please note that this is coded from scratch so there may be a few bugs
